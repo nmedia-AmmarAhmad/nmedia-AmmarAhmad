@@ -1,37 +1,38 @@
+Sure! Here's a new GitHub profile text tailored for an AWS DevOps and Data Engineer:
 
-
-![AI](<images/Picture 1 AI.png>)
+---
 
 ## Hello 👋
 
-## Welcome to Data Science with Ammar
+## Welcome to the World of AWS DevOps and Data Engineering with Ammar
 
-Hey there, it's Ammar Ahmad! Excited to chat about my journey. I've wandered through different fields, but guess what? I've found my sweet spot in the data world. Lately, I've been diving deep into this fascinating realm, picking up cool skills like Python, SQL, and Machine Learning. Right now, I'm knee-deep in the University of Toronto Data Analytics Bootcamp, getting my hands dirty with projects that really show off what I can do. Can't wait to keep you posted on how it all unfolds. Thanks for swinging by!
+Hey there, it's Ammar Ahmad! With a background rich in diverse fields, I've zeroed in on my passion for AWS DevOps and Data Engineering. Currently, I'm leveraging cloud technologies and data pipelines to drive efficiency and innovation.
 
+🔭 **Current Focus:**
+I'm immersed in the dynamic world of AWS DevOps, automating infrastructure, optimizing cloud resources, and ensuring seamless CI/CD processes. On the Data Engineering front, I'm building robust data pipelines that transform raw data into actionable insights.
 
-🔭 Currently, I'm navigating the dynamic landscape of Predictive Data Analytics, orchestrating insights that pave the way for informed decision-making.
+🌱 **Continuous Learning:**
+The tech landscape is ever-evolving, and so am I. I'm constantly honing my skills in cloud architecture, containerization, and big data tools to stay ahead in the game.
 
-🌱 Actively expanding my horizons with a deep dive into Data Analytics.
+🌟 **Let's Connect:**
+Got thoughts to share about AWS, DevOps, data engineering, or just a friendly hello? My inbox is always open! Drop me a line at ammar.ahmad@woo-solutions.ca Let's innovate and create some tech magic together!
 
-🌟 Got thoughts to share? Whether it's data, tech, or just a friendly hello, my inbox is wide open! Drop me a line at AmmarAhmad125@gmail.com, and let's conjure up some tech magic together!
-Certainly, let's amplify your statements to better highlight your expertise in data modeling and make it more engaging:
-
-
-😄 Pronouns: He/Him.
-
+😄 **Pronouns:**
+He/Him
 
 ## 🛠️ Tools of the Trade
 
-Discover some of the tools and technologies I've delved into on my data journey:
+Here are some of the tools and technologies I frequently work with:
 
-- Python (Pandas, Numpy, SciPy, Matplotlib, Regular Expression)
-- Databases (SQL, PostgreSQL, MongoDB)
-- Visual Storytelling on Tableau
-- JavaScript (Plotly.js)
-- Web Technologies (HTML, CSS, Bootstrap)
-- Spreadsheet Wizardry(Excel, Visual Basic)
+- **Cloud Platforms:**
+  - AWS (EC2, S3, RDS, Lambda, CloudFormation, etc.)
+- **DevOps Tools:**
+  - Docker, Kubernetes, Jenkins, Git
+- **Programming Languages:**
+  - Python (Pandas, Numpy, Matplotlib), Bash
+- **Data Engineering:**
+  - ETL processes, Data Warehousing, SQL, NoSQL
+- **Web Technologies:**
+  - HTML, CSS, jQuery
 
-
-[![Ammar Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmmarAhmad)](https://github.com/AmmarAhmad)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAhmad&layout=compact)](https://github.com/AmmarAhmad)
+Looking forward to sharing my projects and contributions with you!
