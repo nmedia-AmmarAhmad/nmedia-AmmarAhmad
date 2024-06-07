@@ -1,6 +1,7 @@
-Sure! Here's a new GitHub profile text tailored for an AWS DevOps and Data Engineer:
 
 ---
+![DevOps](<images/Picture 1 AI.png>)
+
 
 ## Hello 👋
 
