@@ -29,7 +29,7 @@ Here are some of the tools and technologies I frequently work with:
 - **DevOps Tools:**
   - Docker, Kubernetes, Jenkins, Git
 - **Programming Languages:**
-  - Python (Pandas, Numpy, Matplotlib), Bash
+  - Python (Pandas, Numpy, Matplotlib), PHP, JavaScript, Bash 
 - **Data Engineering:**
   - ETL processes, Data Warehousing, SQL, NoSQL
 - **Web Technologies:**
