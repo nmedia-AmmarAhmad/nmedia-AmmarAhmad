@@ -44,6 +44,6 @@ Here are some of the tools and technologies I frequently work with:
 - **Web Technologies:**
   - HTML, CSS, jQuery
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalyalami&show_icons=true&locale=en&layout=compact" alt="dalyalami" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmedia-AmmarAhmad&show_icons=true&locale=en&layout=compact" alt="nmedia-AmmarAhmad" /></p>
 
 Looking forward to sharing my projects and contributions with you!
